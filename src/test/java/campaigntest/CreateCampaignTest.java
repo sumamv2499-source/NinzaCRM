@@ -172,7 +172,7 @@ class CreateCampaignTest extends BaseClass{
 		Assert.assertTrue(msg.contains("Successfully Added"));
 	
 		homepage.getCloseToastMsg().click();
-
+        System.out.println("Github");
 
 	}
 
